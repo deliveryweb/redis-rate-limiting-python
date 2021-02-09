@@ -52,7 +52,6 @@ Problem with unsupported flags when deploying google cloud run button
 
 # How it works?
 ## 1. How the data is stored:
-
 <ol>
     <li>New responses are added key-ip:<pre> SETNX 127.0.0.1:PING 10</pre></li>
     <li>Set a timeout on key:<pre>EXPIRE 127.0.0.1:PING 10</pre></li>
