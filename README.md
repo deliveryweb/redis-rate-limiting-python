@@ -66,7 +66,7 @@ Problem with unsupported flags when deploying google cloud run button
 ### 2. Next responses are changed bucket:
     DECRBY 127.0.0.1:PING 
 
-#### https://redis.io/commands/INCR#pattern-rate-limiter-2       
+#### See: https://redis.io/commands/INCR#pattern-rate-limiter-2       
 
 ---
 
